@@ -20,8 +20,8 @@ Running BayesianOptimization.py for hyperparameter tunning.
 
 Data folder
 -------
-All data used in this paper is freely available at https://github.com/Lingjing-Zhang/ChemNTP/release.
+All data used in this paper is freely available at https://github.com/Lingjing-Zhang/ChemNTP/releases.
 
 GUI
 -------
-We provide a free user-friendly graphical interface that allows non-computational professionals to use ChemNTP for rapid screening of 199 neurotoxic targets of environmental chemicals. This is also the first application in the environmental field using deep learning methods to predict potential pollutants' targets while obtaining molecular mechanisms. The software package download and more usage instructions can be accessed at https://github.com/Lingjing-Zhang/ChemNTP/release.
+We provide a free user-friendly graphical interface that allows non-computational professionals to use ChemNTP for rapid screening of 199 neurotoxic targets of environmental chemicals. This is also the first application in the environmental field using deep learning methods to predict potential pollutants' targets while obtaining molecular mechanisms. The software package download and more usage instructions can be accessed at https://github.com/Lingjing-Zhang/ChemNTP/releases.
