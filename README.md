@@ -20,7 +20,7 @@ Running BayesianOptimization.py for hyperparameter tunning.
 
 Data folder
 -------
-All modeling data used in this paper is freely available.
+All modeling data used in this paper is freely available at https://github.com/Lingjing-Zhang/ChemNTP/releases.
 
 GUI
 -------
