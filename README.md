@@ -26,5 +26,5 @@ Executable Software with GUl
 -------
 We provide a free user-friendly graphical interface that allows non-computational professionals to use ChemNTP for rapid screening of 199 neurotoxic targets of environmental chemicals. This is also the first application in the environmental field using deep learning methods to predict potential pollutants' targets while obtaining molecular mechanisms. The software package download and more usage instructions can be accessed at https://github.com/Lingjing-Zhang/ChemNTP/releases.
 The following is a schematic diagram of how to use the software.
-![软件流程](https://github.com/Lingjing-Zhang/ChemNTP/assets/150929272/74e5bfed-310e-42c8-acb6-526239238b1e)
+![流程1](https://github.com/Lingjing-Zhang/ChemNTP/assets/150929272/bc0ff872-d337-4e2c-b678-fc88c52b6def)
 
